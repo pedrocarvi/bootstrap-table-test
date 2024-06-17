@@ -1,0 +1,19 @@
+.encabezado-principal {
+    border: 1px solid #FAFAFA;
+    padding: 20px 0px;
+    color: #FAFAFA;
+    text-align: center;
+}
+
+.subencabezado {
+    background-color: blue;
+    border: 1px solid #FAFAFA;
+    padding: 20px 0px;
+    color: #FAFAFA;
+    text-align: center;
+}
+
+.table-data {
+    border: 1px solid #303030;
+    padding: 12px 0px;
+}
