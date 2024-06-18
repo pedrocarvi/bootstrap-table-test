@@ -1,4 +1,5 @@
-.encabezado-principal {
+table thead .encabezado-principal {
+    background-color: green;
     border: 1px solid #FAFAFA;
     padding: 20px 0px;
     color: #FAFAFA;
@@ -14,6 +15,5 @@
 }
 
 .table-data {
-    border: 1px solid #303030;
     padding: 12px 0px;
 }
